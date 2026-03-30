@@ -1,4 +1,4 @@
-<script type="text/javascript">
+<script>
   var WIDTH = 500;
   var HEIGHT = 500;
   
